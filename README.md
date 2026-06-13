@@ -126,9 +126,6 @@ The framework was evaluated on the **SVAMP benchmark dataset** for mathematical 
 | Fine-Tuned Phi-3     | Python Code (No Retries)        |                |
 | Neuro-Symbolic Phi-3 | Python Code + 3 Agentic Retries |                |
 
-### 📈 Key Finding
-
-The proposed Neuro-Symbolic Agentic Framework improved performance by **+12.2%** over the baseline Phi-3 model.
 
 
 # 🛠️ Tech Stack
