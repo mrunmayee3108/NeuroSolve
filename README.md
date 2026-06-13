@@ -122,9 +122,9 @@ The framework was evaluated on the **SVAMP benchmark dataset** for mathematical 
 
 | Model Configuration  | Methodology                     | SVAMP Accuracy |
 | -------------------- | ------------------------------- | -------------- |
-| Base Phi-3 (3.8B)    | Zero-Shot Text (CoT)            | **82.0%**      |
-| Fine-Tuned Phi-3     | Python Code (No Retries)        | **89.5%**      |
-| Neuro-Symbolic Phi-3 | Python Code + 3 Agentic Retries | **94.2%**      |
+| Base Phi-3 (3.8B)    | Zero-Shot Text (CoT)            | **85.0%**      |
+| Fine-Tuned Phi-3     | Python Code (No Retries)        |                |
+| Neuro-Symbolic Phi-3 | Python Code + 3 Agentic Retries |                |
 
 ### 📈 Key Finding
 
