@@ -1,7 +1,5 @@
 # 🧠 Neuro-Symbolic Agentic Framework for Math QA
 
-<div align="center">
-
 ### Eliminating Arithmetic Hallucinations in Small Language Models using Neuro-Symbolic AI + Agentic Reflection
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue?style=for-the-badge&logo=python)
