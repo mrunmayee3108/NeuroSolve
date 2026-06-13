@@ -259,9 +259,9 @@ The framework highlights how **Neuro-Symbolic AI** can bridge the gap between pr
 
 # 👥 Contributors
 
-MRUNMAYEE SACHIN POTDAR
-EKTA NARAYAN SAWANT 
-SIDDHI SURENDRA THAKUR
+- MRUNMAYEE SACHIN POTDAR
+- EKTA NARAYAN SAWANT 
+- SIDDHI SURENDRA THAKUR
 
 
 # 📜 License
