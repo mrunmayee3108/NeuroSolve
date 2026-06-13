@@ -259,11 +259,9 @@ The framework highlights how **Neuro-Symbolic AI** can bridge the gap between pr
 
 # 👥 Contributors
 
-| Team Member  | Contribution                                             |
-| ------------ | -------------------------------------------------------- |
-| **Member 1** | Neural Training, Data Processing, QLoRA Fine-Tuning      |
-| **Member 2** | Symbolic Logic, Secure Python Sandbox, Traceback Parsing |
-| **Member 3** | Evaluation Pipeline, Ablation Studies, Visualization     |
+MRUNMAYEE SACHIN POTDAR
+EKTA NARAYAN SAWANT 
+SIDDHI SURENDRA THAKUR
 
 
 # 📜 License
@@ -281,9 +279,4 @@ If you found this project useful:
 🍴 Fork the project
 📢 Share it with others
 
-<div align="center">
-
-### Built with Neuro-Symbolic AI + Agentic Reasoning
-
-</div>
 ```
